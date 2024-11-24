@@ -1,14 +1,10 @@
+# 📊Bike Rental Dashboard
 ## Library
-
-matplotlib
-
-numpy
-
-pandas
-
-seaborn
-
+matplotlib,
+numpy,
+pandas,
+seaborn,
 streamlit
 
 ## Run Streamlit app
-Streamlit run dashboar.py
+Streamlit run dashboard.py
